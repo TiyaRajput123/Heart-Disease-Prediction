@@ -26,7 +26,7 @@ ca (major vessels colored), thal (thalassemia type)
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/HeartDiseasePrediction.git
+git clone https://github.com/TiyaRajput123/Heart-Disease-Prediction.git
 cd HeartDiseasePrediction
 2.Install requirements:
 pip install -r requirements.txt
