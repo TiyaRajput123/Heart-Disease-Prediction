@@ -1,7 +1,7 @@
 # Heart Disease Prediction using Machine Learning
 
 A logistic regression model that predicts heart disease with 85% accuracy, trained on clinical parameters from 303 patients.
-
+----
 ##  Project Overview
 This project analyzes cardiovascular health data to predict heart disease presence (1) or absence (0) using:
 - 13 clinical features including age, cholesterol levels, blood pressure, etc.
