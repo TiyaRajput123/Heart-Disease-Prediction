@@ -13,7 +13,7 @@ This project analyzes cardiovascular health data to predict heart disease presen
 
 **Source**: UCI Heart Disease Dataset (cleaned version)  
 **Samples**: 303 patients  
-**Features**: age, sex, cp (chest pain type), trestbps (resting blood pressure),
+**Features**: age, sex, cp (chest pain type), trestbps (resting blood pressure,
 chol (cholesterol), fbs (fasting blood sugar), restecg (resting ECG),
 thalach (max heart rate), exang (exercise induced angina),
 oldpeak (ST depression), slope (ST segment slope),
