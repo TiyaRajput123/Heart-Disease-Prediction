@@ -8,7 +8,7 @@ This project analyzes cardiovascular health data to predict heart disease presen
 - Logistic Regression algorithm
 - 80-20 train-test split with stratification
 - Achieves 85.12% training and 81.97% test accuracy
-
+  
 ##  Dataset Information
 
 **Source**: UCI Heart Disease Dataset (cleaned version)  
